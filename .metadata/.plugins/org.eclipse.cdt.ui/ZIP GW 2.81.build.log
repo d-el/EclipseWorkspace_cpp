@@ -1,0 +1,59 @@
+12:49:39 **** Incremental Build of configuration Debug for project ZIP GW 2.81 ****
+make all 
+[  3%] Built target s2crypto
+[  3%] Built target aes
+[  4%] Built target s2_controller
+[ 31%] Built target zipgateway
+[ 32%] Built target s2_slave
+[ 33%] Built target unity
+[ 33%] Built target mock
+[ 34%] Built target test_mock_framework
+[ 35%] Built target test_protocol
+[ 36%] Built target test_aes_cmac
+[ 37%] Built target test_ctr_dbrg
+[ 39%] Built target test_kderiv
+[ 41%] Built target test_ccm
+[ 43%] Built target test_curve25519
+[ 45%] Built target s2_inclusion_mocks
+[ 45%] Built target s2_mock
+[ 46%] Built target test_inclusion
+[ 47%] Built target crypto_mocks
+[ 48%] Built target test_inclusion_joining_node_slave
+[ 49%] Built target test_inclusion_including_node
+[ 51%] Built target test_inclusion_joining_node_controller
+[ 51%] Built target zgw_convert_eeprom
+[ 55%] Built target test_pvs_cfg_errors
+[ 60%] Built target test_pvs_cfg_reader
+[ 64%] Built target test_pvs_dev_lookups
+[ 69%] Built target test_provisioning_list
+[ 74%] Built target test_pvs_persistence
+[ 78%] Built target test_CC_and_pvl
+[ 79%] Built target test_CC_provisioning_list
+[ 80%] Built target test_ZIP_router
+[ 80%] Built target zgw_log_file_named_maxd
+[ 81%] Built target zgw_log_test_file_named_maxd
+[ 82%] Built target zgw_log_file_named4
+[ 82%] Built target zgw_log10
+[ 83%] Built target zgw_log_test_init10
+[ 84%] Built target zgw_log_file_def4
+[ 84%] Built target zgw_logNone
+[ 85%] Built target zgw_log_testNone
+[ 86%] Built target zgw_log_color7
+[ 86%] Built target zgw_log_max10
+[ 87%] Built target zgw_log_max4
+[ 88%] Built target zgw_log4
+[ 89%] Built target zgw_log_max0
+[ 90%] Built target zgw_log_test_max10
+[ 91%] Built target zgw_log_test_color7
+[ 92%] Built target zgw_log0
+[ 92%] Built target zgw_log_file_maxd
+[ 93%] Built target zgw_log_test_init0
+[ 95%] Built target zgw_log_test_init4
+[ 96%] Built target zgw_log_test_file_named4
+[ 97%] Built target zgw_log_test_max4
+[ 98%] Built target zgw_log_test_file_def4
+[ 99%] Built target zgw_log_test_max0
+[100%] Built target zgw_log_test_file_maxd
+
+12:49:40 Build Finished (took 1s.517ms)
+

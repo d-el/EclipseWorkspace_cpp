@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.cdt.internal.ui.preferences.CTemplatePreferencePage$CEditTemplateDialog_dialogBounds">
+		<item key="DIALOG_WIDTH" value="690"/>
+		<item key="DIALOG_FONT_NAME" value="1|Ubuntu|11.0|0|GTK|1|"/>
+		<item key="DIALOG_HEIGHT" value="373"/>
+		<item key="DIALOG_X_ORIGIN" value="535"/>
+		<item key="DIALOG_Y_ORIGIN" value="149"/>
+	</section>
+	<section name="org.eclipse.ui.texteditor.GotoLineAction$GotoLineDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="452"/>
+		<item key="DIALOG_Y_ORIGIN" value="268"/>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="isRegEx" value="false"/>
+		<item key="selection" value="Unselect"/>
+		<item key="casesensitive" value="true"/>
+		<item key="incremental" value="false"/>
+		<item key="wrap" value="true"/>
+		<item key="wholeword" value="false"/>
+		<list key="findhistory">
+			<item value="Unselect"/>
+			<item value="_pUnselect"/>
+			<item value="uartRxHook"/>
+			<item value="days_from_0"/>
+			<item value="1900"/>
+			<item value="setcurrent"/>
+			<item value="savePrm"/>
+			<item value="satellites"/>
+			<item value="UART1_DRIVER_ENABLE"/>
+			<item value="gppin_reset(GP_EN1);"/>
+			<item value="save"/>
+			<item value="regState_t"/>
+			<item value="radPower"/>
+			<item value="externalSensorOk"/>
+			<item value="capacity"/>
+		</list>
+		<list key="replacehistory">
+			<item value="filtered1.i"/>
+			<item value="filtered1.iex"/>
+			<item value="filtered1.u"/>
+			<item value="a.filtered1.u"/>
+			<item value="filtered1.uin"/>
+			<item value="a."/>
+			<item value="nullptr"/>
+			<item value="char type[MINMEA_MAX_TYPE_LENGTH]"/>
+			<item value="char type[MINMEA_MAX_TYPE_LENGTH];"/>
+			<item value="gpasData"/>
+			<item value="\r\n&quot;"/>
+			<item value="b."/>
+			<item value="prmHandler"/>
+			<item value="\n\r"/>
+			<item value="usbPort-&gt;portNumber"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item key="DIALOG_WIDTH" value="699"/>
+		<item key="DIALOG_FONT_NAME" value="1|Ubuntu|11.0|0|GTK|1|"/>
+		<item key="DIALOG_HEIGHT" value="434"/>
+		<item key="DIALOG_X_ORIGIN" value="1077"/>
+		<item key="DIALOG_Y_ORIGIN" value="115"/>
+	</section>
+</section>

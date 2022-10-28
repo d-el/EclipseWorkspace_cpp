@@ -1,0 +1,37 @@
+[2019-09-13 15:04:32.939] [exthost] [info] extension host started
+[2019-09-13 15:04:33.061] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense {"startup":true,"activationEvent":"*"}
+[2019-09-13 15:04:33.061] [exthost] [info] ExtensionService#loadCommonJSModule /home/del/.codemix/extensions/christian-kohler.path-intellisense-1.4.2/out/src/extension
+[2019-09-13 15:04:33.075] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"activationEvent":"*"}
+[2019-09-13 15:04:33.075] [exthost] [info] ExtensionService#loadCommonJSModule /home/del/workspace/ide/eclipse-cpp-2019-03-M3-linux-gtk-x86_64/eclipse/plugins/com.genuitec.eclipse.code.extensions.core.linux.x86_64_3.4.0.201908201454/extensions/dbaeumer.vscode-eslint-1.9.0/client/out/extension
+[2019-09-13 15:04:33.141] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-09-13 15:04:33.141] [exthost] [info] ExtensionService#loadCommonJSModule /home/del/workspace/ide/eclipse-cpp-2019-03-M3-linux-gtk-x86_64/eclipse/plugins/com.genuitec.eclipse.code.engine.app.linux.x86_64_3.4.0.201908201543/engine/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-09-13 15:04:33.145] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-09-13 15:04:33.145] [exthost] [info] ExtensionService#loadCommonJSModule /home/del/workspace/ide/eclipse-cpp-2019-03-M3-linux-gtk-x86_64/eclipse/plugins/com.genuitec.eclipse.code.engine.app.linux.x86_64_3.4.0.201908201543/engine/resources/app/extensions/emmet/dist/extension
+[2019-09-13 15:04:33.176] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag {"startup":true,"activationEvent":"*"}
+[2019-09-13 15:04:33.176] [exthost] [info] ExtensionService#loadCommonJSModule /home/del/workspace/ide/eclipse-cpp-2019-03-M3-linux-gtk-x86_64/eclipse/plugins/com.genuitec.eclipse.code.extensions.core.linux.x86_64_3.4.0.201908201454/extensions/formulahendry.auto-close-tag-0.5.6/out/src/extension
+[2019-09-13 15:04:33.178] [exthost] [info] ExtensionService#_doActivateExtension HookyQR.beautify {"startup":true,"activationEvent":"*"}
+[2019-09-13 15:04:33.178] [exthost] [info] ExtensionService#loadCommonJSModule /home/del/workspace/ide/eclipse-cpp-2019-03-M3-linux-gtk-x86_64/eclipse/plugins/com.genuitec.eclipse.code.extensions.core.linux.x86_64_3.4.0.201908201454/extensions/hookyqr.beautify-1.4.11/extension
+[2019-09-13 15:04:33.771] [exthost] [info] extension host started
+[2019-09-13 15:04:33.803] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense {"startup":true,"activationEvent":"*"}
+[2019-09-13 15:04:33.803] [exthost] [info] ExtensionService#loadCommonJSModule /home/del/.codemix/extensions/christian-kohler.path-intellisense-1.4.2/out/src/extension
+[2019-09-13 15:04:33.819] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"activationEvent":"*"}
+[2019-09-13 15:04:33.819] [exthost] [info] ExtensionService#loadCommonJSModule /home/del/workspace/ide/eclipse-cpp-2019-03-M3-linux-gtk-x86_64/eclipse/plugins/com.genuitec.eclipse.code.extensions.core.linux.x86_64_3.4.0.201908201454/extensions/dbaeumer.vscode-eslint-1.9.0/client/out/extension
+[2019-09-13 15:04:33.893] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-09-13 15:04:33.893] [exthost] [info] ExtensionService#loadCommonJSModule /home/del/workspace/ide/eclipse-cpp-2019-03-M3-linux-gtk-x86_64/eclipse/plugins/com.genuitec.eclipse.code.engine.app.linux.x86_64_3.4.0.201908201543/engine/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-09-13 15:04:33.896] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-09-13 15:04:33.896] [exthost] [info] ExtensionService#loadCommonJSModule /home/del/workspace/ide/eclipse-cpp-2019-03-M3-linux-gtk-x86_64/eclipse/plugins/com.genuitec.eclipse.code.engine.app.linux.x86_64_3.4.0.201908201543/engine/resources/app/extensions/emmet/dist/extension
+[2019-09-13 15:04:33.922] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag {"startup":true,"activationEvent":"*"}
+[2019-09-13 15:04:33.922] [exthost] [info] ExtensionService#loadCommonJSModule /home/del/workspace/ide/eclipse-cpp-2019-03-M3-linux-gtk-x86_64/eclipse/plugins/com.genuitec.eclipse.code.extensions.core.linux.x86_64_3.4.0.201908201454/extensions/formulahendry.auto-close-tag-0.5.6/out/src/extension
+[2019-09-13 15:04:33.924] [exthost] [info] ExtensionService#_doActivateExtension HookyQR.beautify {"startup":true,"activationEvent":"*"}
+[2019-09-13 15:04:33.924] [exthost] [info] ExtensionService#loadCommonJSModule /home/del/workspace/ide/eclipse-cpp-2019-03-M3-linux-gtk-x86_64/eclipse/plugins/com.genuitec.eclipse.code.extensions.core.linux.x86_64_3.4.0.201908201454/extensions/hookyqr.beautify-1.4.11/extension
+[2019-09-13 15:04:33.986] [exthost] [info] eager extensions activated
+[2019-09-13 15:04:33.986] [exthost] [info] ExtensionService#_doActivateExtension vscode.grunt {"startup":false,"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2019-09-13 15:04:33.986] [exthost] [info] ExtensionService#loadCommonJSModule /home/del/workspace/ide/eclipse-cpp-2019-03-M3-linux-gtk-x86_64/eclipse/plugins/com.genuitec.eclipse.code.engine.app.linux.x86_64_3.4.0.201908201543/engine/resources/app/extensions/grunt/dist/main
+[2019-09-13 15:04:33.991] [exthost] [info] ExtensionService#_doActivateExtension vscode.gulp {"startup":false,"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2019-09-13 15:04:33.991] [exthost] [info] ExtensionService#loadCommonJSModule /home/del/workspace/ide/eclipse-cpp-2019-03-M3-linux-gtk-x86_64/eclipse/plugins/com.genuitec.eclipse.code.engine.app.linux.x86_64_3.4.0.201908201543/engine/resources/app/extensions/gulp/dist/main
+[2019-09-13 15:04:33.995] [exthost] [info] ExtensionService#_doActivateExtension vscode.jake {"startup":false,"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2019-09-13 15:04:33.995] [exthost] [info] ExtensionService#loadCommonJSModule /home/del/workspace/ide/eclipse-cpp-2019-03-M3-linux-gtk-x86_64/eclipse/plugins/com.genuitec.eclipse.code.engine.app.linux.x86_64_3.4.0.201908201543/engine/resources/app/extensions/jake/dist/main
+[2019-09-13 15:04:33.999] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2019-09-13 15:04:33.999] [exthost] [info] ExtensionService#loadCommonJSModule /home/del/workspace/ide/eclipse-cpp-2019-03-M3-linux-gtk-x86_64/eclipse/plugins/com.genuitec.eclipse.code.engine.app.linux.x86_64_3.4.0.201908201543/engine/resources/app/extensions/npm/dist/main
+[2019-09-13 15:04:34.024] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2019-09-13 15:04:34.024] [exthost] [info] ExtensionService#loadCommonJSModule /home/del/workspace/ide/eclipse-cpp-2019-03-M3-linux-gtk-x86_64/eclipse/plugins/com.genuitec.eclipse.code.engine.app.linux.x86_64_3.4.0.201908201543/engine/resources/app/extensions/typescript-language-features/dist/extension

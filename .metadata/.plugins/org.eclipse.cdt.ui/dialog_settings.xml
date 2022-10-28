@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="org.eclipse.cdt.uiformatter_pagemodify_dialog.preferred_x" value="1936"/>
+	<item key="org.eclipse.cdt.uiformatter_pagemodify_dialog.last_focus" value="0"/>
+	<item key="org.eclipse.cdt.uiformatter_pagemodify_dialog.preferred_y" value="66"/>
+	<item key="org.eclipse.cdt.uiformatter_page.white_space_tab_page.node" value="0"/>
+	<item key="LastUsedSourceTemplate" value="C source"/>
+	<item key="org.eclipse.cdt.uiformatter_page.white_space.c_view.inner" value="87"/>
+	<item key="formatter_page.modify_dialog_tab_page.last_focus_index" value="-1"/>
+	<item key="LastUsedHeaderTemplate" value="C Header"/>
+	<item key="org.eclipse.cdt.uiformatter_page.line_wrapping_tab_page.last_category_index" value="1"/>
+	<item key="org.eclipse.cdt.utils.ui.controls.FileListControl" value="glut"/>
+	<item key="org.eclipse.cdt.uiformatter_pagemodify_dialog.preferred_width" value="1337"/>
+	<item key="org.eclipse.cdt.uiformatter_pagemodify_dialog.preferred_height" value="768"/>
+	<item key="org.eclipse.cdt.ui.codeformatter.savepath.loadpath" value="/home/del/EclipseWorkspace_cpp/formatter"/>
+	<section name="org.eclipse.cdt.internal.ui.text.QuickOutline">
+		<item key="org.eclipse.cdt.internal.ui.text.COutlineInformationControlDIALOG_USE_PERSISTED_SIZE" value="true"/>
+		<item key="org.eclipse.cdt.internal.ui.text.COutlineInformationControlDIALOG_Y_ORIGIN" value="438"/>
+		<item key="org.eclipse.cdt.internal.ui.text.COutlineInformationControlDIALOG_WIDTH" value="400"/>
+		<item key="org.eclipse.cdt.internal.ui.text.COutlineInformationControlDIALOG_USE_PERSISTED_LOCATION" value="true"/>
+		<item key="org.eclipse.cdt.internal.ui.text.COutlineInformationControlDIALOG_HEIGHT" value="340"/>
+		<item key="org.eclipse.cdt.internal.ui.text.COutlineInformationControlDIALOG_X_ORIGIN" value="879"/>
+	</section>
+	<section name="CPathContainerSelectionPage">
+		<item key="index" value="1"/>
+	</section>
+	<section name="org.eclipse.cdt.ui.text.hover.CMacroExpansionExploration.internal">
+		<item key="size.height" value="386"/>
+		<item key="size.width" value="1004"/>
+	</section>
+	<section name="PDOMSearchPage">
+		<item key="caseSensitive" value="false"/>
+		<item key="searchFlags" value="23"/>
+		<list key="previousPatterns">
+			<item value="indication_timeout"/>
+			<item value="MB_FUNC_READWRITE_MULTIPLE_REGISTERS"/>
+			<item value="storage::section::I"/>
+			<item value="pdMS_TO_TICKS"/>
+			<item value="Send_msg_Callback"/>
+			<item value="UpdateItem"/>
+			<item value="update_value_in_core"/>
+			<item value="Maximumnumberofroomsreached"/>
+			<item value="ApplicationError"/>
+			<item value="onUpdateValueThermostatSetpoint"/>
+			<item value="Request"/>
+			<item value="onUpdateValueMultilevelSensor"/>
+			<item value="lua_pcallFAILEDstatus"/>
+			<item value="luaStackElementToValue"/>
+			<item value="*setpoint*"/>
+			<item value="HandleEventUpdateFloatValue"/>
+			<item value="scriptsmodeldevices335_21570_21553lua"/>
+			<item value="installPlugin"/>
+			<item value="Storage::getwrite"/>
+			<item value="PluginInfo"/>
+			<item value="ClassPtr"/>
+			<item value="getDefaultCoordinator"/>
+			<item value="NMA_DEFAULT_ENV"/>
+			<item value="Environment::Tiny"/>
+			<item value="htonll"/>
+			<item value="mbedtls_x509_crt_parse"/>
+			<item value="destroy"/>
+			<item value="ssl_session_reset_int"/>
+			<item value="CONFIG_BOARD_TYPE"/>
+			<item value="ESPPORT"/>
+			<item value="LOG_LOCAL_LEVEL"/>
+			<item value="ESP_LOG_DEBUG"/>
+			<item value="wifimactimedelta"/>
+			<item value="Td0"/>
+			<item value="Bufferh"/>
+			<item value="ZCc0x30BinarySensor"/>
+			<item value="getValueFormattedByItemType"/>
+			<item value="addItem"/>
+			<item value="BinaryTamper"/>
+			<item value="xTickCount"/>
+			<item value="znetNodeAdd"/>
+			<item value="ZNET_LOGD"/>
+			<item value="31"/>
+			<item value="executeOneStep"/>
+			<item value="fromParameterPack"/>
+			<item value="ErrorserialAPIcommandID"/>
+			<item value="store_size"/>
+			<item value="znet_deinit"/>
+			<item value="0xc1"/>
+			<item value="make_master_suite"/>
+			<item value="MAC_ADDR0"/>
+			<item value="DNS_SERVER_ADDRESS"/>
+			<item value="TCP_DEBUG"/>
+			<item value="TCP_QUEUE_OOSEQ"/>
+			<item value="lwip_stats"/>
+			<item value="NETIF_DEBUG"/>
+			<item value="MEM_SIZE"/>
+			<item value="tcpip_thread"/>
+			<item value="lanActive"/>
+		</list>
+	</section>
+	<section name="NewClassWizardPage">
+		<item key="stubSelected1" value="true"/>
+		<item key="stubVirtual1" value="false"/>
+		<item key="namespaceSelected" value="false"/>
+		<item key="stubInline0" value="false"/>
+		<item key="stubInline1" value="false"/>
+		<item key="namespace" value=""/>
+		<item key="testFileSelected" value="false"/>
+		<item key="stubSelected0" value="true"/>
+	</section>
+	<section name="org.eclipse.cdt.internal.ui.preferences.EditTemplateDialog_dialogBounds">
+		<item key="DIALOG_WIDTH" value="674"/>
+		<item key="DIALOG_FONT_NAME" value="1|Ubuntu|11.0|0|GTK|1|"/>
+		<item key="DIALOG_HEIGHT" value="324"/>
+		<item key="DIALOG_X_ORIGIN" value="543"/>
+		<item key="DIALOG_Y_ORIGIN" value="181"/>
+	</section>
+	<section name="OptionalMessageDialog.hide.">
+		<item key="askReindex.detail" value="1"/>
+		<item key="askReindex" value="true"/>
+	</section>
+	<section name="org.eclipse.cdt.ui.OPEN_ACTION_SELECTION_DIALOG_SECTION">
+		<item key="DIALOG_WIDTH" value="1344"/>
+		<item key="DIALOG_FONT_NAME" value="1|Ubuntu|11.0|0|GTK|1|"/>
+		<item key="DIALOG_HEIGHT" value="487"/>
+		<item key="DIALOG_X_ORIGIN" value="327"/>
+		<item key="DIALOG_Y_ORIGIN" value="210"/>
+	</section>
+	<section name="org.eclipse.cdt.internal.ui.browser.opentype.OpenTypeActionSettings">
+		<item key="show_enums" value="true"/>
+		<item key="show_unions" value="true"/>
+		<item key="show_macros" value="true"/>
+		<item key="show_classes" value="true"/>
+		<item key="show_functions" value="true"/>
+		<item key="show_lowlevel" value="true"/>
+		<item key="show_namespaces" value="true"/>
+		<item key="show_enumerators" value="true"/>
+		<item key="show_structs" value="true"/>
+		<item key="x" value="401"/>
+		<item key="width" value="641"/>
+		<item key="y" value="24"/>
+		<item key="show_typedefs" value="true"/>
+		<item key="show_variables" value="true"/>
+		<item key="height" value="759"/>
+	</section>
+	<section name="CResourceRenameRefactoringInputPage">
+		<item key="updateReferences" value="true"/>
+	</section>
+	<section name="org.eclipse.cdt.ui.text.hover.CMacroExpansionExploration">
+	</section>
+	<section name="RenameInformationPopup">
+	</section>
+	<section name="CRenameRefactoringInputPage">
+		<item key="scope" value="3"/>
+		<item key="workingset" value=""/>
+		<item key="references_inv" value="false"/>
+		<item key="comment" value="false"/>
+		<item key="exhausiveFileSearch" value="false"/>
+		<item key="macroDefinition" value="false"/>
+	</section>
+	<section name="IncludeSysmbolsPropertyPage">
+		<item key="pageIndex" value="0"/>
+	</section>
+	<section name="org.eclipse.cdt.internal.ui.callhierarchy.OpenElementInCallHierarchyActionSettings">
+		<item key="show_enums" value="false"/>
+		<item key="show_unions" value="false"/>
+		<item key="show_macros" value="false"/>
+		<item key="show_classes" value="false"/>
+		<item key="show_functions" value="true"/>
+		<item key="show_lowlevel" value="true"/>
+		<item key="show_namespaces" value="false"/>
+		<item key="show_enumerators" value="true"/>
+		<item key="show_structs" value="false"/>
+		<item key="x" value="413"/>
+		<item key="width" value="541"/>
+		<item key="y" value="0"/>
+		<item key="show_typedefs" value="false"/>
+		<item key="show_variables" value="true"/>
+		<item key="height" value="644"/>
+	</section>
+	<section name="completion_proposal_size">
+		<item key="size.y" value="244"/>
+		<item key="size.x" value="1283"/>
+	</section>
+	<section name="org.eclipse.cdt.internal.ui.typehierarchy.OpenTypeInHierarchyActionSettings">
+		<item key="show_enums" value="true"/>
+		<item key="show_unions" value="true"/>
+		<item key="show_macros" value="false"/>
+		<item key="show_classes" value="true"/>
+		<item key="show_functions" value="false"/>
+		<item key="show_lowlevel" value="true"/>
+		<item key="show_namespaces" value="false"/>
+		<item key="show_enumerators" value="false"/>
+		<item key="show_structs" value="true"/>
+		<item key="x" value="752"/>
+		<item key="width" value="487"/>
+		<item key="y" value="76"/>
+		<item key="show_typedefs" value="true"/>
+		<item key="show_variables" value="false"/>
+		<item key="height" value="736"/>
+	</section>
+	<section name="org.eclipse.cdt.internal.ui.includebrowser.IBViewPart">
+		<item key="showFolders" value="false"/>
+		<item key="systemFilter" value="false"/>
+		<item key="includedBy" value="true"/>
+		<item key="inactiveFilter" value="false"/>
+	</section>
+	<section name="org.eclipse.cdt.internal.ui.typehierarchy.QuickHierarchy">
+		<item key="org.eclipse.cdt.internal.ui.typehierarchy.THInformationControlDIALOG_WIDTH" value="400"/>
+		<item key="org.eclipse.cdt.internal.ui.typehierarchy.THInformationControlDIALOG_USE_PERSISTED_SIZE" value="true"/>
+		<item key="org.eclipse.cdt.internal.ui.typehierarchy.THInformationControlDIALOG_USE_PERSISTED_LOCATION" value="true"/>
+		<item key="org.eclipse.cdt.internal.ui.typehierarchy.THInformationControlDIALOG_HEIGHT" value="340"/>
+		<item key="org.eclipse.cdt.internal.ui.typehierarchy.THInformationControlDIALOG_X_ORIGIN" value="883"/>
+		<item key="org.eclipse.cdt.internal.ui.typehierarchy.THInformationControlDIALOG_Y_ORIGIN" value="422"/>
+	</section>
+</section>

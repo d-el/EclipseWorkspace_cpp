@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="/home/del/workspace/runLua"/>
+		<item value="/home/del/workspace/lua-5.3.5"/>
+		<item value="/home/del/workspace/API-doc"/>
+		<item value="/home/del/workspace/ESP32/lib/znet"/>
+		<item value="/home/del/workspace/hubPlatform"/>
+		<item value="/home/del/Downloads/FreeRTOS-on-Linux"/>
+		<item value="/home/del/Downloads/ps36"/>
+		<item value="/home/del/workspace/esp32/firmware"/>
+		<item value="/home/del/workspace/ESP32_cmake/firmware"/>
+		<item value="/home/del/workspace/ESP32CMake"/>
+		<item value="/home/del/workspace/ESP32CMakecopy"/>
+		<item value="/home/del/workspace/ESP32CMake/firmware"/>
+		<item value="/home/del/Downloads/exp/myprojcopy"/>
+		<item value="/home/del/Downloads/ps"/>
+		<item value="/home/del/workspace/test/ESP32/lib/ZNet"/>
+		<item value="/home/del/workspace/ezloOdessa"/>
+		<item value="/home/del/workspace/ESP32/firmware"/>
+		<item value="/home/del/workspace/123/ZNet"/>
+		<item value="/home/del/Downloads/PS3604L_Panel"/>
+		<item value="/home/del/Downloads/x11DisplayEmulator"/>
+		<item value="/home/del/workspace/ZNet"/>
+		<item value="/home/del/Downloads/x11DisplayEmulator-master"/>
+		<item value="/home/del/EclipseWorkspace_cpp_Photon/x11DisplayEmulator-master"/>
+		<item value="/home/del/workspace/ESP32_12.06/lib/ZNet"/>
+		<item value="/home/del/EclipseWorkspace_cpp_Photon/gcc"/>
+		<item value="/home/del/workspace/ESP32_Master/ESP32/lib/ZNet"/>
+		<item value="/home/del/workspace/ESP32_master/ESP32/lib/ZNet"/>
+		<item value="/media/del/0BA64C9A7C61F51B/private/PS3604L"/>
+		<item value="/home/del/workspace/sdk/ZIP GW 2.81"/>
+		<item value="/home/del/Downloads/ZIP GW 2.81"/>
+		<item value="/home/del/workspace/esp32_1/ESP32/lib/ZNet"/>
+		<item value="/home/del/workspace/ESP32/lib/ZNet"/>
+		<item value="/home/del/workspace/ESP32"/>
+		<item value="/home/del/workspace/check"/>
+		<item value="D:\Radio\Devices\PS3604L\Firmware\Panel2"/>
+		<item value="D:\Radio\Devices\PS3604L\Firmware\Panel - Copy"/>
+		<item value="D:\workspace\c_cpp\simple_wifi"/>
+		<item value="D:\work\c_cpp\gcc_regex"/>
+		<item value="D:\Radio\Devices\WakeOnEthernet\Panel"/>
+		<item value="D:\Radio\Devices\PS3604L\Old\Panel_old"/>
+		<item value="D:\Radio\Devices\Eftek\OLY\BM_DDR_adjustment\arm_test_02"/>
+		<item value="D:\work\c_cpp\x11Display3D"/>
+		<item value="D:\Radio\Devices\Dimmer\STM32F030_RGBW"/>
+		<item value="D:\work\c_cpp\android_packages_apps_OpenDelta"/>
+		<item value="D:\Radio\Devices\PS3604L\Firmware\Panelnmf"/>
+		<item value="D:\work\c_cpp\education\ed_getType"/>
+		<item value="D:\work\c_cpp\education\ed_template"/>
+		<item value="D:\work\c_cpp\gccprj"/>
+		<item value="D:\work\gccprj"/>
+		<item value="D:\work\x11DisplayMandel"/>
+		<item value="D:\Radio\Devices\PS3604L\Firmware\Regulator"/>
+		<item value="D:\Radio\Devices\MatureCouple\HamRotorPanel\Panel"/>
+		<item value="D:\Radio\Devices\PS3604L\Firmware\Panel"/>
+	</list>
+	<section name="CleanDialogSettings">
+		<item key="DIALOG_WIDTH" value="563"/>
+		<item key="BUILD_ALL" value="true"/>
+		<item key="TOGGLE_SELECTED" value="true"/>
+		<item key="DIALOG_HEIGHT" value="493"/>
+		<item key="DIALOG_X_ORIGIN" value="262"/>
+		<item key="DIALOG_Y_ORIGIN" value="75"/>
+		<item key="BUILD_NOW" value="false"/>
+	</section>
+	<section name="ResourceNavigator">
+		<item key="ResourceWorkingSetFilter.STORE_WORKING_SET" value="Aggregate for window 1517927213053"/>
+		<item key="ResourceViewer.STORE_SORT_TYPE" value="1"/>
+	</section>
+	<section name="org.eclipse.ui.internal.ide.dialogs.ProjectContentsLocationArea">
+		<item key="OUTSIDE_LOCATION" value="/mnt/882CF1F02CF1D8E0/Radio/Devices/PS3604L/Firmware/Regulator2"/>
+	</section>
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.ldt.wizard"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.ui.Basic"/>
+			<item value="org.eclipse.cdt.ui.newCWizards"/>
+			<item value="org.eclipse.ldt.category"/>
+		</list>
+	</section>
+	<section name="BasicNewProjectResourceWizard">
+	</section>
+	<section name="org.eclipse.ui.dialogs.FilteredResourcesSelectionDialog">
+		<item key="FilterByLocation" value="false"/>
+		<item key="ShowStatusLine" value="true"/>
+		<item key="History" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0A;&lt;History&gt;&#x0A;&lt;historyRootNode/&gt;&#x0A;&lt;/History&gt;"/>
+		<item key="WorkingSet" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0A;&lt;workingSet workingSetName=&quot;&quot;/&gt;"/>
+		<item key="ShowDerived" value="false"/>
+		<section name="DialogBoundsSettings">
+			<item key="DIALOG_WIDTH" value="1161"/>
+			<item key="DIALOG_FONT_NAME" value="1|Ubuntu|11.0|0|GTK|1|"/>
+			<item key="DIALOG_HEIGHT" value="562"/>
+			<item key="DIALOG_X_ORIGIN" value="687"/>
+			<item key="DIALOG_Y_ORIGIN" value="212"/>
+		</section>
+	</section>
+	<section name="org.eclipse.ui.internal.views.markers.FiltersConfigurationDialog">
+		<item key="SELECTED_FILTER_GROUP" value="TODOs"/>
+		<list key="PREV_SELECTED_ELEMENTS">
+		</list>
+	</section>
+	<section name="SaveAsDialogSettings">
+		<item key="DIALOG_WIDTH" value="613"/>
+		<item key="DIALOG_FONT_NAME" value="1|Ubuntu|11.0|0|GTK|1|"/>
+		<item key="DIALOG_HEIGHT" value="602"/>
+		<item key="DIALOG_X_ORIGIN" value="429"/>
+		<item key="DIALOG_Y_ORIGIN" value="8"/>
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="574"/>
+		<item key="DIALOG_Y_ORIGIN" value="314"/>
+	</section>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
+			<item value="org.eclipse.ui.workbenchTransfer"/>
+		</list>
+	</section>
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="/mnt/hd500/Radio/Devices/GClock/FW"/>
+			<item value="/mnt/hd500/Radio/Devices/PS3604L/Firmware/Panel"/>
+			<item value="/mnt/hd500/Radio/Devices/PS3604L/Firmware/Regulator"/>
+			<item value="/mnt/882CF1F02CF1D8E0/Radio/Devices/GClock/FW"/>
+			<item value="/mnt/882CF1F02CF1D8E0/Radio/Devices/LampOne/Cube"/>
+			<item value="/mnt/882CF1F02CF1D8E0/Radio/Devices/LampOne/FW"/>
+			<item value="/mnt/882CF1F02CF1D8E0/Radio/Devices/Dimmer/STM32F100"/>
+			<item value="/mnt/882CF1F02CF1D8E0/Radio/Devices/PS3604L/Firmware/Panel"/>
+			<item value="/mnt/882CF1F02CF1D8E0/Radio/Devices/PS3604L/Firmware/Regulator"/>
+			<item value="/mnt/882CF1F02CF1D8E0/Radio/Devices/PS3604L/Firmware/Regulator2"/>
+			<item value="/home/del/workspace/p2"/>
+			<item value="/home/del/workspace/prmsystem"/>
+			<item value="/home/del/workspace/yamaha-halo-4th-board_/yamaha-halo-4th-board/tools/modbustester"/>
+			<item value="/home/del/workspace/minmea"/>
+			<item value="/home/del/workspace/yamaha-halo-4th-board_/yamaha-halo-4th-board"/>
+			<item value="/home/del/workspace/fmtlearn"/>
+			<item value="/home/del/workspace/yamaha-halo-4th-board"/>
+			<item value="/home/del/workspace/yamaha-halo-4th-board_old/yamaha-halo-4th-board"/>
+			<item value="/home/del/workspace/yamaha-halo-4th-board_copy/yamaha-halo-4th-board"/>
+			<item value="/home/del/workspace/yamaha-halo-4th-board/yamaha-halo-4th-board"/>
+			<item value="/home/del/Downloads/jamod-1.2-SNAPSHOT-sources"/>
+			<item value="/home/del/Downloads/jamod-1.2-SNAPSHOT"/>
+			<item value="/home/del/workspace/yamaha-dc-control-cable-firmware/DC-TCC/main_app"/>
+			<item value="/home/del/Downloads/yamatrack-cart-app-android"/>
+			<item value="/home/del/Downloads/ESP32/firmware"/>
+		</list>
+	</section>
+</section>

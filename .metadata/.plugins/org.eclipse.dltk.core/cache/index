@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ASCII"?>
+<cache:CacheIndex xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:cache="http://eclipse.org/dltk/cache_model" lastIndex="15" environment="org.eclipse.dltk.core.environment.localEnvironment">
+  <entries path="/home/del/EclipseWorkspace_cpp_Photon/luahello/src" timestamp="1546524588387" lastAccessTime="1548069638810">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="2838196607/1048509163/5.idx"/>
+  </entries>
+  <entries path="/home/del/EclipseWorkspace_cpp_Photon/luahello/src/main.c" timestamp="1546521365044" lastAccessTime="1548069638756"/>
+  <entries path="/home/del/EclipseWorkspace_cpp_Photon/luahello/src/main.lua" timestamp="1546526871379" lastAccessTime="1548069638771">
+    <attributes name="indexed" location="2838196607/2413880327/12.idx"/>
+  </entries>
+  <entries path="/home/del/EclipseWorkspace_cpp_Photon/luahello/src/poly.lua" timestamp="1546524842932" lastAccessTime="1548069638773">
+    <attributes name="indexed" location="2838196607/2413880327/14.idx"/>
+  </entries>
+</cache:CacheIndex>

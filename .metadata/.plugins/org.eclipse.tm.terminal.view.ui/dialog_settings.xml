@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="LaunchTerminalSettingsDialog">
+		<item key="terminalLabel" value="Local Terminal"/>
+		<section name="SettingsPanelControl">
+			<section name="Git Bash">
+			</section>
+			<section name="Serial Terminal">
+				<list key="hosts">
+				</list>
+			</section>
+			<section name="ubuntu">
+				<item key="encoding" value="UTF-8"/>
+			</section>
+			<section name="bash">
+				<item key="encoding" value="UTF-8"/>
+			</section>
+			<section name="Arduino Serial Monitor">
+			</section>
+			<section name="Local Terminal">
+				<item key="encoding" value="UTF-8"/>
+			</section>
+			<section name="Cygwin-Terminal">
+			</section>
+			<section name="def">
+				<item key="encoding" value="UTF-8"/>
+			</section>
+		</section>
+	</section>
+</section>

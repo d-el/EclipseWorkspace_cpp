@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ldt.editor.LuaFormatterFactory">
+		<item value="1009" key="width"/>
+		<item value="474" key="x"/>
+		<item value="161" key="y"/>
+		<item value="609" key="height"/>
+	</section>
+</section>

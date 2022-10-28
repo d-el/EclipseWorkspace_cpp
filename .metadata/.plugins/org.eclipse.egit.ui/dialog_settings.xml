@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="EGit.KnownHosts">
+		<item value="git.eclipse.org"/>
+		<item value="github.com"/>
+		<item value="bitbucket.org"/>
+	</list>
+	<section name="org.eclipse.egit.ui.internal.dialogs.RebaseTargetSelectionDialog.dialogBounds">
+		<item key="DIALOG_WIDTH" value="613"/>
+		<item key="DIALOG_FONT_NAME" value="1|Ubuntu|11.0|0|GTK|1|"/>
+		<item key="DIALOG_HEIGHT" value="548"/>
+		<item key="DIALOG_X_ORIGIN" value="621"/>
+		<item key="DIALOG_Y_ORIGIN" value="177"/>
+	</section>
+	<section name="GitCreatePatchWizard">
+		<item key="GitCreatePatchWizard.LocationPage.path" value="/home/del/workspace"/>
+		<item key="GitCreatePatchWizard.OptionsPage.contextLines" value="3"/>
+		<item key="GitCreatePatchWizard.LocationPage.location" value="filesystem"/>
+		<item key="GitCreatePatchWizard.OptionsPage.format" value="NONE"/>
+	</section>
+	<section name="GitCommitSearchPage">
+		<item key="HISTORY_SIZE" value="0"/>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
+		<item key="HORIZONTAL_SASH_FORM_WEIGHT" value="200,200"/>
+		<item key="STAGING_SASH_FORM_WEIGHT" value="200,200"/>
+		<item key="sortItemState" value="false"/>
+	</section>
+</section>
